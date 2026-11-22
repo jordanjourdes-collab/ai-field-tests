@@ -8,7 +8,7 @@ Real-world, reproducible benchmarks comparing frontier and budget AI models (`Ge
 
 | # | Test | Models Tested | Quick Verdict | Folder |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | *Coming soon* | — | — | `tests/` |
+| 01 | Interactive 3D Black Hole (Three.js) | Claude Haiku 5.5 (`x high`), Gemini 4 Hydrogen (`x high`) | Gemini wins realism (Kerr + presets, 4% 5h quota); Haiku wins efficiency (57 FPS, 2% 5h quota) | [2026-11-22-01-black-hole-threejs](tests/2026-11-22-01-black-hole-threejs/) |
 
 ## Methodology
 See [METHOD.md](METHOD.md) for strict reproducibility rules and scoring criteria.
