@@ -11,6 +11,7 @@ Real-world, reproducible benchmarks comparing frontier and budget AI models (`Ge
 | 01 | Interactive 3D Black Hole (Three.js) | Claude Haiku 5.5 (`x high`), Gemini 4 Hydrogen (`x high`) | Gemini wins realism (Kerr + presets, 4% 5h quota); Haiku wins efficiency (57 FPS, 2% 5h quota) | [2026-11-22-01-black-hole-threejs](tests/2026-11-22-01-black-hole-threejs/) |
 | 02 | Interactive 3D Ocean & Island Weather (Three.js) | Gemini 4 Neon (`x high`) — Solo Showcase | 4,184-line showcase ("PHAROS"), 45–60 FPS, 3 autonomous visual QA passes (38 min, 22% 5h quota) | [2026-11-24-02-ocean-weather-threejs](tests/2026-11-24-02-ocean-weather-threejs/) |
 | 03 | Fracturing Rock & Hidden Gemstone (Three.js) | GPT-6.2 Sol (`low`), Gemini 4 Neon (`low`) | GPT-6.2 Sol wins realism & detail (auto-play, 3% 5h quota); Neon packs more controls (5 gems, Slow-Mo, 2% 5h quota) | [2026-11-26-03-gem-shatter-threejs](tests/2026-11-26-03-gem-shatter-threejs/) |
+| 04 | Scroll-Driven 3D Exploded Table (Three.js) | GPT-6.2 Sol (`high`), GPT-6.2 Astra (`high`), Gemini 4 Carbon (`high`) | Gemini 4 Carbon wins detail (74 CAD parts, ~30m, 20% 5h); Sol wins efficiency (9% 5h); Astra looks great (42% 5h) | [2026-11-26-04-table-exploded-threejs](tests/2026-11-26-04-table-exploded-threejs/) |
 
 ## Methodology
 See [METHOD.md](METHOD.md) for strict reproducibility rules and scoring criteria.
