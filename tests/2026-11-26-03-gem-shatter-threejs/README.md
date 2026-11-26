@@ -19,6 +19,7 @@ Deliver everything in a single self-contained `index.html` file in the current d
 ![GPT-6.2 Sol vs Gemini 4 Neon — Fracturing Rock & Gemstone](compare.png)
 
 - Full-resolution captures: [gpt-6.2-sol.png](gpt-6.2-sol.png) · [gemini-4-neon.png](gemini-4-neon.png)
+- Synchronized side-by-side HD video (12.4s): [compare.mp4](compare.mp4)
 
 ## Results Comparison
 

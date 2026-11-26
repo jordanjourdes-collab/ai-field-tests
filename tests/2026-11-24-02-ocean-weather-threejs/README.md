@@ -19,6 +19,7 @@ Deliver everything in a single self-contained `index.html` file in the current d
 ![Gemini 4 Neon — PHAROS Ocean & Island Weather Simulation](showcase.png)
 
 - Full-resolution captures: [sunset.png](sunset.png) · [storm.png](storm.png)
+- HD video recording (21s): [showcase.mp4](showcase.mp4)
 
 ## Measured Run Summary
 
